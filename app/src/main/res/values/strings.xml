@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProductPriceCalculator</string>
+    <string name="final_price">Final Price</string>
+</resources>
+
